@@ -1280,6 +1280,18 @@ def _collect_listings_from_html(html_text, base_url, path_markers, make, model, 
 # -------------------------
 # Marketplace-specific parsers
 # -------------------------
+def _is_autotrader_detail(url):
+    """True only for an AutoTrader *vehicle* detail link (path contains '/a/').
+    Rejects dealer-profile pages (/dealers/47945923?cid=...), photo/gallery links,
+    and nav links that share a listing card — any of which the loose card scan below
+    could otherwise grab as the listing's URL."""
+    try:
+        path = urllib.parse.urlparse(url).path.lower()
+    except Exception:
+        return False
+    return "/a/" in path
+
+
 def parse_autotrader_listings(html_text, make, model, year_min, year_max, aliases, vehicle_name, max_price, max_km):
     """Parse AutoTrader search results page for ALL listings."""
     if not html_text:
@@ -1302,6 +1314,10 @@ def parse_autotrader_listings(html_text, make, model, year_min, year_max, aliase
                 for a in links:
                     href = a.get("href", "")
                     full = urllib.parse.urljoin("https://www.autotrader.ca", href)
+                    # Only the vehicle-detail link (/a/...) — never the dealer profile,
+                    # photo, or nav links that also live inside the card.
+                    if not _is_autotrader_detail(full):
+                        continue
                     if full in seen_urls:
                         continue
                     text = card.get_text(" ", strip=True) or ""
@@ -1335,9 +1351,11 @@ def parse_autotrader_listings(html_text, make, model, year_min, year_max, aliase
     
     # Strategy 2: Find all car-related links in the page
     print(f"    AutoTrader: scanning all links for car listings...")
-    for a in soup.select("a[href*='/cars/'], a[href*='/listing/']"):
+    for a in soup.select("a[href*='/a/']"):
         href = a.get("href", "")
         full = urllib.parse.urljoin("https://www.autotrader.ca", href)
+        if not _is_autotrader_detail(full):
+            continue
         if full in seen_urls:
             continue
         seen_urls.add(full)
