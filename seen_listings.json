@@ -568,7 +568,7 @@
   },
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2023-id14273364.html": {
    "first_seen": "2026-08-28",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV",
    "year": "2023",
@@ -679,7 +679,7 @@
   },
   "candiactoyota.com/used/2023-mitsubishi-outlander_phev-id14323139.html": {
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV",
    "year": "2023",
@@ -1353,7 +1353,7 @@
   },
   "kijiji.ca/v-cars-trucks/levis/2023-mitsubishi-outlander-le-s-awc-phev/1741952281": {
    "first_seen": "2026-08-13",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2023",
@@ -1521,35 +1521,6 @@
    "last_seen": null,
    "sold_on": null
   },
-  "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1761374": {
-   "first_seen": "2026-08-06",
-   "last_seen": "2026-08-24",
-   "sold_on": "2026-08-25",
-   "label": "2023 Mitsubishi Outlander PHEV SEL",
-   "year": "2023",
-   "trim": "PHEV SEL S-AWC NAV, TOIT, VOLANT+SIEGES CHAUF",
-   "vehicle": "Mitsubishi Outlander PHEV",
-   "price": "$34,990",
-   "mileage": "48,677 km",
-   "province": null,
-   "url": "https://www.otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1761374",
-   "sources": [
-    {
-     "name": "Otogo.ca",
-     "url": "https://www.otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1761374"
-    },
-    {
-     "name": "Repentigny Mitsubishi",
-     "url": "https://www.repentignymitsubishi.com/occasion/Mitsubishi-Outlander_PHEV-2023-id14200555.html"
-    }
-   ],
-   "price_history": [
-    [
-     "2026-08-06",
-     34990
-    ]
-   ]
-  },
   "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1765878": {
    "first_seen": "2026-08-11",
    "last_seen": "2026-08-30",
@@ -1577,7 +1548,7 @@
   },
   "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1772598": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2023",
@@ -1602,7 +1573,7 @@
   },
   "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1798261": {
    "first_seen": "2026-09-11",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2023",
@@ -1622,6 +1593,35 @@
     [
      "2026-09-11",
      33995
+    ]
+   ]
+  },
+  "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1802923": {
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "sold_on": null,
+   "label": "2023 Mitsubishi Outlander PHEV SEL",
+   "year": "2023",
+   "trim": "SEL S-AWC",
+   "vehicle": "Mitsubishi Outlander PHEV",
+   "price": "$34,895",
+   "mileage": "59,350 km",
+   "province": null,
+   "url": "https://www.otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1802923",
+   "sources": [
+    {
+     "name": "Otogo.ca",
+     "url": "https://www.otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1802923"
+    },
+    {
+     "name": "Repentigny Mitsubishi",
+     "url": "https://www.repentignymitsubishi.com/occasion/Mitsubishi-Outlander_PHEV-2023-id14380635.html"
+    }
+   ],
+   "price_history": [
+    [
+     "2026-09-16",
+     34895
     ]
    ]
   },
@@ -1647,7 +1647,7 @@
   },
   "otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1795227": {
    "first_seen": "2026-09-09",
-   "last_seen": "2026-09-15",
+   "last_seen": "2026-09-16",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2024",
@@ -1683,6 +1683,31 @@
     [
      "2026-09-09",
      34992
+    ]
+   ]
+  },
+  "otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1803399": {
+   "first_seen": "2026-09-16",
+   "last_seen": "2026-09-16",
+   "sold_on": null,
+   "label": "2024 Mitsubishi Outlander PHEV LE S-AWC",
+   "year": "2024",
+   "trim": "LE S-AWC Toit Panoramique Cuir Si\u00e8ges Chauffa",
+   "vehicle": "Mitsubishi Outlander PHEV",
+   "price": "$34,995",
+   "mileage": "53,180 km",
+   "province": null,
+   "url": "https://www.otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1803399",
+   "sources": [
+    {
+     "name": "Otogo.ca",
+     "url": "https://www.otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1803399"
+    }
+   ],
+   "price_history": [
+    [
+     "2026-09-16",
+     34995
     ]
    ]
   },
