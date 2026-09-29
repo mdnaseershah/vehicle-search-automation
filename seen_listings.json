@@ -194,35 +194,6 @@
     ]
    ]
   },
-  "autotrader.ca/dealers/47943678": {
-   "first_seen": "2026-08-14",
-   "last_seen": "2026-09-06",
-   "sold_on": "2026-09-07",
-   "label": "2023 Mitsubishi Outlander PHEV GT",
-   "year": "2023",
-   "trim": "Open listing details GT Cuir Climatisation Toit panoramique 33 897 Great price 33 897 Great price 82 171 km Automatic Gas Electric SI GES CHAUFFANTS TOIT PANORAMIQUE APPLE CARPLAY Nous sommes ouverts 7 jours pour vous accompagner DEMANDE DE PR T EN LIGNE Pr qualifiez-vous pour le v hicule de vos r ves Restez dans le confort de votre foyer et remplissez un formulaire en ligne Vous pouvez le retrouver directement sur notre site internet dans la section Financement FINANCEMENT Nous sommes affili s avec plus de 18 institutions financi res afin de trouver le meilleur plan de financement pour votre nouveau v hicule Avec le meilleur taux sur le march 99 de nos transactions sont approuv es Nos conseillers financiers se feront un plaisir de vous aider tout au long de votre processus dachat INSPECTION Tous nos v hicules sont soumis une inspection minutieuse effectu e par nos m caniciens certifi s De plus ils sont reconditionn s selon les normes du Code de la s curit routi re CHANGE Peu importe lann e la marque le mod le ou le kilom trage de votre v hicule nous reprenons votre v hicule en change au meilleur prix Nous reprenons m me les v hicules r cr atifs De plus nous vous offrons un prix pour votre v hicule m me si vous souhaitez seulement le vendre QUI SOMMES NOUS De ses d buts en 1969 jusqu aujourdhui Entrep t Auto Durocher demeure une entreprise familiale fid le ses valeurs Notre entreprise se d marque par une approche humaine un vaste inventaire automobile et par nos solutions de financement vari es convenant tous nos clients NOS HEURES DOUVERTURE Nous sommes situ s au 12000 rue de lAvenir Mirabel pr t de Bell H licopt re Nos heures douverture sont du lundi au vendredi de 9h 20h le samedi de 9h 15h et le dimanche de 10h a 15h Heated seats panoramic roof Apple CarPlay We are open 7 days a week to assist you FINANCING AVAILABLE Pre-qualify for you dream car From the comfort of your own home fill the form online You can find it the Financing section directly on our website FINANCING We are affiliated with over 18 financial institutions to find the best financing plan for your new vehicle With the best rates on the market 99 of our transactions are approved Our financial advisors will be happy to help you throughout the purchasing process INSPECTION All our vehicles undergo a thorough inspection by our certified mechanics They are reconditioned compliance with the Highway Safety Code EXCHANGE Whatever the year make model or mileage of your vehicle well take it back at the best price We even take back recreational vehicles On the other hand we will buy your vehicle even if you only want to sell it WHO ARE WE From its beginnings 1969 to the present day Entrep t Auto Durocher has remained a family-run business true to its values Our company stands out for its outstanding approach vast automotive inventory and varied financing solutions to suit all our customers OUR OPENING HOURS We are newly situated at 12000 rue de lAvenir near Bell Helicopter We are open Monday to Friday from 9AM to 8PM and Saturday from 9AM to 3PM and Sunday from 10 am to 3 pm Auto Durocher Mirabel QC 141 km from you Show more vehicles",
-   "vehicle": "Mitsubishi Outlander PHEV",
-   "price": "$33,897",
-   "mileage": "32,954 km",
-   "province": null,
-   "url": "https://www.autotrader.ca/dealers/47943678",
-   "sources": [
-    {
-     "name": "AutoTrader",
-     "url": "https://www.autotrader.ca/dealers/47943678"
-    }
-   ],
-   "price_history": [
-    [
-     "2026-08-14",
-     34997
-    ],
-    [
-     "2026-09-04",
-     33897
-    ]
-   ]
-  },
   "autotrader.ca/dealers/47945359": {
    "first_seen": "2026-08-18",
    "last_seen": "2026-09-14",
@@ -456,7 +427,7 @@
   },
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2023-id14273364.html": {
    "first_seen": "2026-08-28",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV",
    "year": "2023",
@@ -1241,7 +1212,7 @@
   },
   "kijiji.ca/v-cars-trucks/levis/2023-mitsubishi-outlander-le-s-awc-phev/1741952281": {
    "first_seen": "2026-08-13",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2023",
@@ -1411,7 +1382,7 @@
   },
   "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1772598": {
    "first_seen": "2026-08-18",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2023",
@@ -1436,13 +1407,13 @@
   },
   "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1798261": {
    "first_seen": "2026-09-11",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2023",
    "trim": "LE S-AWC PHEV 7 Passagers Toit Panoramique Cu",
    "vehicle": "Mitsubishi Outlander PHEV",
-   "price": "$33,995",
+   "price": "$32,495",
    "mileage": "69,400 km",
    "province": null,
    "url": "https://www.otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1798261",
@@ -1456,13 +1427,17 @@
     [
      "2026-09-11",
      33995
+    ],
+    [
+     "2026-09-29",
+     32495
     ]
    ]
   },
   "otogo.ca/en/car/2023-mitsubishi-outlander-phev-for-sale-1802923": {
    "first_seen": "2026-09-16",
    "last_seen": "2026-09-28",
-   "sold_on": null,
+   "sold_on": "2026-09-29",
    "label": "2023 Mitsubishi Outlander PHEV SEL",
    "year": "2023",
    "trim": "SEL S-AWC",
@@ -1510,7 +1485,7 @@
   },
   "otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1759328": {
    "first_seen": "2026-09-24",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2024",
@@ -1576,7 +1551,7 @@
   },
   "otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1803399": {
    "first_seen": "2026-09-16",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV LE S-AWC",
    "year": "2024",
@@ -1601,7 +1576,7 @@
   },
   "otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1805426": {
    "first_seen": "2026-09-18",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV SEL",
    "year": "2024",
@@ -1626,11 +1601,11 @@
   },
   "otogo.ca/en/car/2024-mitsubishi-outlander-phev-for-sale-1815926": {
    "first_seen": "2026-09-28",
-   "last_seen": "2026-09-28",
+   "last_seen": "2026-09-29",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV LE",
    "year": "2024",
-   "trim": "LE",
+   "trim": "LE Toit Pano Carplay/Android Auto Volant Chau",
    "vehicle": "Mitsubishi Outlander PHEV",
    "price": "$34,988",
    "mileage": "61,258 km",
@@ -1653,6 +1628,31 @@
    "first_seen": null,
    "last_seen": null,
    "sold_on": null
+  },
+  "repentignymitsubishi.com/occasion/mitsubishi-outlander_phev-2023-id14380635.html": {
+   "first_seen": "2026-09-29",
+   "last_seen": "2026-09-29",
+   "sold_on": null,
+   "label": "2023 Mitsubishi Outlander PHEV",
+   "year": "2023",
+   "trim": null,
+   "vehicle": "Mitsubishi Outlander PHEV",
+   "price": "$34,895",
+   "mileage": "59,350 km",
+   "province": null,
+   "url": "https://www.repentignymitsubishi.com/occasion/Mitsubishi-Outlander_PHEV-2023-id14380635.html",
+   "sources": [
+    {
+     "name": "Repentigny Mitsubishi",
+     "url": "https://www.repentignymitsubishi.com/occasion/Mitsubishi-Outlander_PHEV-2023-id14380635.html"
+    }
+   ],
+   "price_history": [
+    [
+     "2026-09-29",
+     34895
+    ]
+   ]
   },
   "st-hyacinthemitsubishi.ca/occasion/mitsubishi-outlander_phev-2023-id13995588.html": {
    "first_seen": null,
