@@ -232,7 +232,7 @@
   },
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2023-id14449398.html": {
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-10",
+   "last_seen": "2026-10-11",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV",
    "year": "2023",
@@ -274,7 +274,7 @@
   },
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2024-id14405451.html": {
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-10",
+   "last_seen": "2026-10-11",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -1057,6 +1057,31 @@
    "last_seen": null,
    "sold_on": null
   },
+  "kijiji.ca/v-cars-trucks/ottawa/2023-mitsubishi-outlander-phev-sel/1744677227": {
+   "first_seen": "2026-10-11",
+   "last_seen": "2026-10-11",
+   "sold_on": null,
+   "label": "2023 Mitsubishi Outlander PHEV SEL",
+   "year": "2023",
+   "trim": "SEL",
+   "vehicle": "Mitsubishi Outlander PHEV",
+   "price": "$34,990",
+   "mileage": "60,688 km",
+   "province": null,
+   "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mitsubishi-outlander-phev-sel/1744677227",
+   "sources": [
+    {
+     "name": "Kijiji",
+     "url": "https://www.kijiji.ca/v-cars-trucks/ottawa/2023-mitsubishi-outlander-phev-sel/1744677227"
+    }
+   ],
+   "price_history": [
+    [
+     "2026-10-11",
+     34990
+    ]
+   ]
+  },
   "lefebvre-toyota.ca/used/2022-nissan-sentra.html": {
    "first_seen": null,
    "last_seen": null,
@@ -1627,7 +1652,7 @@
   },
   "repentignymitsubishi.com/occasion/mitsubishi-outlander_phev-2024-id14481585.html": {
    "first_seen": "2026-10-05",
-   "last_seen": "2026-10-10",
+   "last_seen": "2026-10-11",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -1657,7 +1682,7 @@
   },
   "st-hyacinthemitsubishi.ca/occasion/mitsubishi-outlander_phev-2024-id14399581.html": {
    "first_seen": "2026-10-06",
-   "last_seen": "2026-10-10",
+   "last_seen": "2026-10-11",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
