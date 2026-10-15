@@ -232,7 +232,7 @@
   },
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2023-id14449398.html": {
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV",
    "year": "2023",
@@ -274,7 +274,7 @@
   },
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2024-id14405451.html": {
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -377,35 +377,6 @@
    "first_seen": null,
    "last_seen": null,
    "sold_on": null
-  },
-  "candiactoyota.com/used/2023-mitsubishi-outlander_phev-id14323139.html": {
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-09-22",
-   "sold_on": "2026-09-23",
-   "label": "2023 Mitsubishi Outlander PHEV",
-   "year": "2023",
-   "trim": null,
-   "vehicle": "Mitsubishi Outlander PHEV",
-   "price": "$31,998",
-   "mileage": "56,361 km",
-   "province": null,
-   "url": "https://www.candiactoyota.com/used/2023-Mitsubishi-Outlander_PHEV-id14323139.html",
-   "sources": [
-    {
-     "name": "Candiac Toyota",
-     "url": "https://www.candiactoyota.com/used/2023-Mitsubishi-Outlander_PHEV-id14323139.html"
-    },
-    {
-     "name": "Hgregoire Mitsubishi",
-     "url": "https://www.hgregoiremitsubishi.com/occasion/Mitsubishi-Outlander_PHEV-2023-id14323139.html"
-    }
-   ],
-   "price_history": [
-    [
-     "2026-09-02",
-     31998
-    ]
-   ]
   },
   "candiactoyota.com/used/2023-mitsubishi-outlander_phev.html": {
    "first_seen": null,
@@ -1059,7 +1030,7 @@
   },
   "kijiji.ca/v-cars-trucks/ottawa/2023-mitsubishi-outlander-phev-sel/1744677227": {
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV SEL",
    "year": "2023",
@@ -1707,7 +1678,7 @@
   },
   "st-hyacinthemitsubishi.ca/occasion/mitsubishi-outlander_phev-2024-id14399581.html": {
    "first_seen": "2026-10-06",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -2008,46 +1979,6 @@
    "first_seen": null,
    "last_seen": null,
    "sold_on": null
-  },
-  "toyotavictoriaville.ca/used/2024-mitsubishi-outlander_phev-id14399347.html": {
-   "first_seen": "2026-09-22",
-   "last_seen": "2026-09-22",
-   "sold_on": "2026-09-23",
-   "label": "2024 Mitsubishi Outlander PHEV GT S-AWC",
-   "year": "2024",
-   "trim": "GT S-AWC Volant Chauffant Toit panoramique Victoriaville",
-   "vehicle": "Mitsubishi Outlander PHEV",
-   "price": null,
-   "mileage": "61,005 km",
-   "province": null,
-   "url": "https://www.toyotavictoriaville.ca/used/2024-Mitsubishi-Outlander_PHEV-id14399347.html",
-   "sources": [
-    {
-     "name": "Toyotavictoriaville",
-     "url": "https://www.toyotavictoriaville.ca/used/2024-Mitsubishi-Outlander_PHEV-id14399347.html"
-    }
-   ],
-   "price_history": []
-  },
-  "toyotavictoriaville.ca/used/2024-mitsubishi-outlander_phev.html": {
-   "first_seen": "2026-09-22",
-   "last_seen": "2026-09-22",
-   "sold_on": "2026-09-23",
-   "label": "2024 Mitsubishi Outlander PHEV",
-   "year": "2024",
-   "trim": "Used",
-   "vehicle": "Mitsubishi Outlander PHEV",
-   "price": null,
-   "mileage": null,
-   "province": null,
-   "url": "https://www.toyotavictoriaville.ca/used/2024-Mitsubishi-Outlander_PHEV.html",
-   "sources": [
-    {
-     "name": "Toyotavictoriaville",
-     "url": "https://www.toyotavictoriaville.ca/used/2024-Mitsubishi-Outlander_PHEV.html"
-    }
-   ],
-   "price_history": []
   },
   "toyotavictoriaville.ca/used/2024-toyota-corolla.html": {
    "first_seen": null,
