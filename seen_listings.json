@@ -349,7 +349,7 @@
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2024-id14552369.html": {
    "first_seen": "2026-10-22",
    "last_seen": "2026-11-03",
-   "sold_on": null,
+   "sold_on": "2026-11-04",
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
    "trim": null,
@@ -423,7 +423,7 @@
   "blainvillemitsubishi.ca/occasion/mitsubishi-outlander_phev-2024-id14607872.html": {
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
-   "sold_on": null,
+   "sold_on": "2026-11-04",
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
    "trim": null,
@@ -459,7 +459,7 @@
   },
   "bouchervillemitsubishi.com/occasion/mitsubishi-outlander_phev-2024-id14481977.html": {
    "first_seen": "2026-10-22",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -1168,7 +1168,7 @@
   },
   "hamelhonda.com/used/2024-mitsubishi-outlander_phev.html": {
    "first_seen": "2026-10-20",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -1208,7 +1208,7 @@
   },
   "joliettemitsubishi.com/occasion/mitsubishi-outlander_phev-2024-id14548341.html": {
    "first_seen": "2026-10-30",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "sold_on": null,
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
@@ -1273,7 +1273,7 @@
   },
   "kijiji.ca/v-cars-trucks/ottawa/2023-mitsubishi-outlander-phev-sel/1744677227": {
    "first_seen": "2026-10-11",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "sold_on": null,
    "label": "2023 Mitsubishi Outlander PHEV SEL",
    "year": "2023",
@@ -1469,7 +1469,7 @@
   "repentignymitsubishi.com/occasion/mitsubishi-outlander_phev-2024-id14481585.html": {
    "first_seen": "2026-10-05",
    "last_seen": "2026-11-03",
-   "sold_on": null,
+   "sold_on": "2026-11-04",
    "label": "2024 Mitsubishi Outlander PHEV",
    "year": "2024",
    "trim": null,
@@ -1492,6 +1492,31 @@
     [
      "2026-11-03",
      34990
+    ]
+   ]
+  },
+  "saintleonardmitsubishi.com/inventaire/occasion/2024/mitsubishi/outlander-phev/7254": {
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "sold_on": null,
+   "label": "2024 Mitsubishi Outlander PHEV LE",
+   "year": "2024",
+   "trim": null,
+   "vehicle": "Mitsubishi Outlander PHEV",
+   "price": "$34,380",
+   "mileage": "57,719 km",
+   "province": null,
+   "url": "https://saintleonardmitsubishi.com/inventaire/occasion/2024/mitsubishi/outlander-phev/7254",
+   "sources": [
+    {
+     "name": "Saintleonard Mitsubishi",
+     "url": "https://saintleonardmitsubishi.com/inventaire/occasion/2024/mitsubishi/outlander-phev/7254"
+    }
+   ],
+   "price_history": [
+    [
+     "2026-11-04",
+     34380
     ]
    ]
   },
